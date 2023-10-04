@@ -17,3 +17,7 @@ User-Friendly Discord Integration: Uploading videos to the bot is a breeze. Simp
 No need for complex commands or convoluted setups.
 
 Quick and Efficient: deadframebot is designed for speed. It processes videos swiftly, so you can get back to sharing your content with minimal delay.
+
+Project in action:
+https://github.com/omad2/deadframebot/assets/72156064/d020d6d7-739c-4fe1-8684-aa8909e3c6bf
+
