@@ -21,3 +21,12 @@ Quick and Efficient: deadframebot is designed for speed. It processes videos swi
 Project in action:
 https://github.com/omad2/deadframebot/assets/72156064/d020d6d7-739c-4fe1-8684-aa8909e3c6bf
 
+Image 1: Shows the options we have for the bot!
+
+![image](https://github.com/omad2/deadframebot/assets/72156064/3fb0556b-e05b-4d6a-a572-38995cbb297b)
+
+
+Image 2:
+![image](https://github.com/omad2/deadframebot/assets/72156064/8a497298-9101-4003-b0ad-3dc8fc7c108b)
+
+
